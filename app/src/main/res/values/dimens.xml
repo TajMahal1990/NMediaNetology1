@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="common_padding">16dp</dimen>
+    <dimen name="mini_padding">8dp</dimen>
+    <dimen name="avatar_size">48dp</dimen>
+    <dimen name="icon_button_padding">12dp</dimen>
+    <dimen name="icon_button_min_size">48dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="mini_margin">4dp</dimen>
+</resources>
